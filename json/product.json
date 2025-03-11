@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
+      "price": 1200.99,
+      "category": "Electronics",
+      "stock": 35,
+      "manufacturer": "TechCorp",
+      "sku": "LPT-001",
+      "tags": ["laptop", "electronics", "tech", "high-performance"],
+      "imageUrl": "https://example.com/images/laptop.jpg",
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "John Doe",
+          "rating": 5,
+          "comment": "Amazing performance and great value for money!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "description": "A sleek smartphone with a 6.5-inch display and 128GB storage.",
+      "price": 899.99,
+      "category": "Electronics",
+      "stock": 100,
+      "manufacturer": "SmartTech",
+      "sku": "SPH-002",
+      "tags": ["smartphone", "mobile", "electronics"],
+      "imageUrl": "https://example.com/images/smartphone.jpg",
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "Alice Johnson",
+          "rating": 4,
+          "comment": "Great phone, but the battery life could be better."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "description": "Noise-cancelling over-ear headphones with superior sound quality.",
+      "price": 199.99,
+      "category": "Accessories",
+      "stock": 50,
+      "manufacturer": "SoundMaster",
+      "sku": "HP-003",
+      "tags": ["headphones", "audio", "music", "accessories"],
+      "imageUrl": "https://example.com/images/headphones.jpg",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Chris Lee",
+          "rating": 5,
+          "comment": "Best headphones I've ever used!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "description": "A stylish smartwatch with fitness tracking and heart rate monitor.",
+      "price": 249.99,
+      "category": "Wearables",
+      "stock": 25,
+      "manufacturer": "FitTrack",
+      "sku": "SW-004",
+      "tags": ["smartwatch", "fitness", "wearables", "tech"],
+      "imageUrl": "https://example.com/images/smartwatch.jpg",
+      "rating": 4.3,
+      "reviews": [
+        {
+          "user": "Tom Green",
+          "rating": 4,
+          "comment": "Great features, but the battery life could be better."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Wireless Mouse",
+      "description": "A comfortable wireless mouse with ergonomic design.",
+      "price": 29.99,
+      "category": "Accessories",
+      "stock": 200,
+      "manufacturer": "Logitech",
+      "sku": "WM-005",
+      "tags": ["mouse", "wireless", "accessories"],
+      "imageUrl": "https://example.com/images/mouse.jpg",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "Sarah Miller",
+          "rating": 5,
+          "comment": "Very smooth and responsive, perfect for work."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with excellent sound quality and long battery life.",
+      "price": 99.99,
+      "category": "Electronics",
+      "stock": 60,
+      "manufacturer": "SoundWave",
+      "sku": "BS-006",
+      "tags": ["bluetooth", "speaker", "electronics", "music"],
+      "imageUrl": "https://example.com/images/speaker.jpg",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "James King",
+          "rating": 5,
+          "comment": "Amazing sound and very portable!"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "4K TV",
+      "description": "65-inch 4K smart TV with HDR support and voice control.",
+      "price": 799.99,
+      "category": "Electronics",
+      "stock": 15,
+      "manufacturer": "VisionTech",
+      "sku": "TV-007",
+      "tags": ["tv", "4K", "electronics", "home-theater"],
+      "imageUrl": "https://example.com/images/4k-tv.jpg",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Nancy Brown",
+          "rating": 5,
+          "comment": "Fantastic picture quality and easy to set up."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Gaming Console",
+      "description": "Next-gen gaming console with 1TB storage and 4K support.",
+      "price": 499.99,
+      "category": "Gaming",
+      "stock": 40,
+      "manufacturer": "GameStation",
+      "sku": "GC-008",
+      "tags": ["gaming", "console", "electronics"],
+      "imageUrl": "https://example.com/images/gaming-console.jpg",
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "Michael Taylor",
+          "rating": 5,
+          "comment": "Incredible performance, worth every penny!"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Electric Kettle",
+      "description": "Stainless steel electric kettle with rapid boiling technology.",
+      "price": 39.99,
+      "category": "Home Appliances",
+      "stock": 80,
+      "manufacturer": "HomeTech",
+      "sku": "EK-009",
+      "tags": ["kettle", "appliances", "kitchen"],
+      "imageUrl": "https://example.com/images/kettle.jpg",
+      "rating": 4.4,
+      "reviews": [
+        {
+          "user": "Rachel Green",
+          "rating": 4,
+          "comment": "Boils water quickly, but it could use a quieter sound."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush with multiple cleaning modes.",
+      "price": 79.99,
+      "category": "Health & Beauty",
+      "stock": 120,
+      "manufacturer": "OralCare",
+      "sku": "ETB-010",
+      "tags": ["toothbrush", "health", "personal-care"],
+      "imageUrl": "https://example.com/images/toothbrush.jpg",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Lily Adams",
+          "rating": 5,
+          "comment": "A game changer for my dental hygiene!"
+        }
+      ]
+    }
+  ]
+  
